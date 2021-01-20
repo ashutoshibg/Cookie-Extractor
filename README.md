@@ -8,6 +8,7 @@ Purpose:
 It help to extract site cookies which reduce the effort of mannual Cookie extraction for Bug hunting or other purpose.
 
 I hope it will be helpful.
+
 Thanking You
 
 
