@@ -8,7 +8,13 @@ Purpose:
 It help to extract site cookies which reduce the effort of mannual Cookie extraction for Bug hunting or other purpose.
 
 I hope it will be helpful.
+I hope you like this tool.</br>
 
-Thanking You
+### If you want to support us. You can donate through Google Pay.</br>
+#### UPI - officialindianblackgold@okicici</br>
 
+
+####Thanking You
+###Ashutosh Kumar
+#####linkedin- in/ashutosh_ibg
 
