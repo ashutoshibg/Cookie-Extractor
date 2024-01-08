@@ -11,7 +11,7 @@ I hope it will be helpful.
 I hope you like this tool.</br>
 
 ### If you want to support us. You can donate through Google Pay.</br>
-#### UPI - officialindianblackgold@okicici</br>
+#### UPI - ashutosh-ibg@ybl</br>
 
 
 #### Thanking You
